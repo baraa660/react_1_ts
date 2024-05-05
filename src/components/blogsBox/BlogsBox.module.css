@@ -1,0 +1,22 @@
+.blog_container {
+    display: flex;
+    justify-content: flex-end; /* Align items to the right */
+    padding-right: 20px; /* Adjust as needed */
+  }
+
+.blog_box {
+    border: 2px solid #b55656;
+    border-radius: 8px;
+    padding: 20px;
+    width: 200px; /* Adjust width as needed */
+    margin-left: 20px;
+    background-color: #fff;
+  }
+  
+  .count_container {
+    margin-bottom: 10px;
+  }
+  
+  .count {
+    font-size: 18px;
+  }

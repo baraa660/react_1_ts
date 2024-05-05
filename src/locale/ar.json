@@ -1,0 +1,18 @@
+{
+    "blogs":"المدونات",
+    "Add New Blog": "إضافة مدونة جديدة",
+    "Edit Blog": "تعديل مدونة",
+    "title":"العنوان",
+    "description":"الوصف",
+    "Liked blogs": "المدونات المحبوبة",
+    "Unliked blogs": "المدونات الغير المحبوبة",
+    "readmore": " المزيد",
+    "Submit": "إرسال",
+    "Copyright ©2024 Baraa Bzour®": "®جميع الحقوق محفوظة ©2024 براء بزور",
+    "Title is required": "العنوان مطلوب",
+    "Title must be at most 50 characters": "يجب أن يكون العنوان 50 حرفًا على الأكثر",
+    "Title must start with a capital letter": "يجب أن يبدأ العنوان بحرف كبير",
+    "Description is required" : "الوصف مطلوب",
+    "Description must be at most 500 characters": "يجب أن يكون الوصف 500 حرفًا على الأكثر",
+    "Blog Details":"تفاصيل المدونة"
+}

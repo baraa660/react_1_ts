@@ -1,0 +1,70 @@
+.form_section{
+    background-color: #fff;
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+    padding-right: 50px;
+}
+
+.form_section label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form_section input[type="text"],
+.form_section textarea,
+.form_section input[type="file"]{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form_section input[type="submit"]{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form_section input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+input[type="submit"][disabled] {
+    opacity: 0.5; 
+}
+
+input[type="submit"][disabled]:hover {
+    background-color: #4CAF50;
+    cursor: auto;
+}
+
+.form_section .titleError{
+    color: rgb(215, 0, 0);
+    display: none;
+    margin-top: 0;
+}
+
+.form_section .descriptionError{
+    color: rgb(215, 0, 0);
+    display: none;
+    margin-top: 0;
+}
+
+.form_section .imageError{
+    color: rgb(215, 0, 0);
+    display: none;
+    margin-top: 0;
+}
+
+.error{
+    color: rgb(215, 0, 0);
+    
+    margin-top: 0;
+}
